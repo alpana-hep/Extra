@@ -16,6 +16,9 @@ Copy the example/htaccess file into .htaccess and edit its content to suit your 
 ```
 
 Replace your index.php by the  index.php in this directory.
+```
+cp https://github.com/alpana-hep/Extra/blob/main/index.php .
+```
 
 If you want to replace a lot of index.php saved in different folders then run the following script from your source directory
 
